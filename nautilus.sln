@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nautilus", "nautilus\nautilus.csproj", "{CCAEBFE8-A860-423A-90C3-8CF9E6FCDFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAEBFE8-A860-423A-90C3-8CF9E6FCDFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAEBFE8-A860-423A-90C3-8CF9E6FCDFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAEBFE8-A860-423A-90C3-8CF9E6FCDFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAEBFE8-A860-423A-90C3-8CF9E6FCDFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
